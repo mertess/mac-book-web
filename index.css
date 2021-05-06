@@ -1,0 +1,97 @@
+.navbar{
+    background-color: #5a5151 !important;
+    height: 44pt;
+}
+
+.icon{
+    height: 25pt;
+    width: 25pt;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link.selected{
+    font-weight: 600;
+}
+
+.video-background{
+    background-color: #a49fa1;
+}
+
+.header-line{
+    height: 12pt;
+    background-color: black;
+}
+
+.nav-item .nav-link{
+    margin-left: 5pt;
+    margin-right: 10pt;
+}
+
+.nav-item .icon{
+    margin-top: 3pt;
+    margin-left: 160pt;
+}
+
+.row.visual-item{
+    height: 100%;
+}
+
+div.visual-item{
+    background-image: url("./assets/mac-book.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+}
+
+h1{
+    margin-top: 10% !important;
+    color: black;
+    font-size: 58pt !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.description-background{
+    background-image: url("./assets/description-background.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.title{
+    color: black;
+    margin-top: 50pt;
+    margin-right: 30pt;
+    font-size: 20pt;
+    font-family: Roboto, sans-serif;
+}
+
+.description{
+    margin-right: 5%;
+    color: black;
+    font-size: 14pt;
+    font-family: Roboto, sans-serif;
+    text-align: justify;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+.nav-link {
+    color: whitesmoke !important;
+    font-size: 14pt;
+}
+
+footer{
+    background-color: black;
+    height: 170pt;
+    text-align: center;
+    padding-top: 2%;
+}
